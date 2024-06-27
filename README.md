@@ -1,11 +1,13 @@
 <h1 align="center">Hi there, I'm Justin Garvida :wave: </h1>
 <h3 align="center">An inspiring Filipino Software Engineer currently studying Software Engineering @ Drexel University</h3>
 
-<h3 align="left">My Work Experiences   :hammer: </h3>
+<h3 align="left">My Work Experiences   :hammer:</h3>
+
 <p align="left">
-- Software Engineer @ **Leidos**  (March 2024 - Present)
-- Data Operations Associate @ **DemandScience**  (June 2023 - September 2023) 
+- Software Engineer @ **Leidos**  (March 2024 - Present)<br>
+- Data Operations Associate @ **DemandScience**  (June 2023 - September 2023)
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
