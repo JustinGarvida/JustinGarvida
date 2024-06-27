@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justin Garvida</h1>
 <h3 align="center">An inspiring Filipino Software Engineer currently studying Software Engineering @ Drexel University</h3>
 
-<h3>My Work Experiences: </h3>
 - Software Engineer **Leidos**
 
 - Data Operations Associate **DemandScience**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/justingarvida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/justingarvida/" height="30" width="40" /></a>
