@@ -4,11 +4,8 @@
 <h3 align="left">My Work Experiences:</h3>
 <p align="left">
 
-- Software Engineer @ **Leidos** : March 2024 - Present
-
-- Data Operations Associate @ **DemandScience** : June 2023 - September 2023
-
-- Currently Working On: **FilBot**
+- Software Engineer @ **Leidos**  (March 2024 - Present)
+- Data Operations Associate @ **DemandScience**  (June 2023 - September 2023)
 - </p>
 
 <h3 align="left">Connect with me:</h3>
