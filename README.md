@@ -4,8 +4,8 @@
 <h3 align="left">My Work Experiences   :hammer:</h3>
 
 <p align="left">
-- Software Engineer @ **Leidos**  (March 2024 - Present)<br>
-- Data Operations Associate @ **DemandScience**  (June 2023 - September 2023)
+- Software Engineer @ **Leidos**
+- Data Operations Associate **DemandScience**
 </p>
 
 
