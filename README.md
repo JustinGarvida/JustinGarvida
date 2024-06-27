@@ -3,10 +3,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 - Software Engineer @ **Leidos**
 - Data Operations Associate @ **DemandScience**
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
