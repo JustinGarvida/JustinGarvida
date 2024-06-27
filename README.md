@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin Garvida</h1>
+<h1 align="center">Hi, I'm Justin Garvida 👋</h1>
 <h3 align="center">An inspiring Filipino Software Engineer currently studying Software Engineering @ Drexel University</h3>
 
 - Software Engineer **Leidos**
