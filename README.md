@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Justin Garvida 👋</h1>
+<h1 align="center">Hi 👋, I'm Justin Garvida</h1>
 <h3 align="center">An inspiring Filipino Software Engineer currently studying Software Engineering @ Drexel University</h3>
 
+- Software Engineer **Leidos**
 
-<h3 align="left">Connect with me:</h3>
-- Software Engineer @ **Leidos**
-- Data Operations Associate @ **DemandScience**
+- Data Operations Associate **DemandScience**
+
+- Currently Working On: **FilBot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
