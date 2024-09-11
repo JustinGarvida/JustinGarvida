@@ -3,7 +3,7 @@
 
 <h3>Work Experiences: </h3>
 
-- Software Engineer @ **Leidos** (March 2024-Present)
+- Software Engineer @ **Leidos** (March 2024- September 2024)
 
 - Data Operations Associate @ **DemandScience** (June 2023 - September 2023)
 
