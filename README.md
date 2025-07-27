@@ -122,4 +122,4 @@
 
 <!-- PORTFOLIO -->
 <h2 align="left">Check My Portfolio Website!</h2>
-<p>Adding soon...</p>
+<p>(https://justingarvida.github.io/portfolio/)</p>
