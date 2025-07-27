@@ -10,7 +10,6 @@
 
 - Data Operations Associate @ **DemandScience** (June 2023 - September 2023)
 
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/justingarvida/" target="_blank">
