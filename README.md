@@ -1,115 +1,121 @@
-<h1 align="center">Hey, I'm Justin Garvida</h1>
-<h3 align="center">Software Developer @ Susquehanna | Software Engineering @ Drexel University</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,kubernetes,docker,kafka,terraform,react,postgres,aws&perline=9" />
+</p>
+
+<h1 align="center">Hey, I'm Justin Garvida 👋</h1>
+<h3 align="center">
+  Software Engineer at Susquehanna • Drexel University Software Engineering
+</h3>
 
 <!-- ABOUT ME -->
 <h2 align="left">About Me</h2>
-<p>I'm currently an undergraduate student at Drexel University pursuing a Bachelor's degree in Software Engineering with a minor in Data Science. I have an enthusiasm for full-stack development, backend development , systems design, and data science! </p>
+<p>
+  I'm an undergraduate student at <strong>Drexel University</strong> pursuing a 
+  Bachelor's degree in <strong>Software Engineering</strong> with a minor in 
+  <strong>Data Science</strong>.
+</p>
+<p>
+  I'm passionate about full-stack development, backend engineering, systems design,
+  distributed infrastructure, and data-driven applications.
+</p>
+<p>
+  🌐 <strong>Portfolio:</strong> 
+  <a href="https://justingarvida.github.io/portfolio/" target="_blank">
+    justingarvida.github.io/portfolio
+  </a>
+</p>
 
-<h2 align="left">Work Experiences</h3>
-<ul>
-  <li>Software Engineer @ <strong>Susquehanna International Group</strong> (March 2025 – Present)</li>
-  <li>Software Engineer @ <strong>Leidos</strong> (March 2024 – September 2024)</li>
-  <li>Data Operations Associate @ <strong>DemandScience</strong> (June 2023 – September 2023)</li>
-</ul>
+<!-- Work Experience -->
+<h2 align="left">Work Experience</h2>
+
+<h4>Incoming Software Engineer</h4>
+<p>
+  <strong>Thryv</strong><br/>
+  <sub>May 2026</sub><br/>
+  <sub>Incoming...</sub>
+</p>
+
+<hr/>
+
+<h4>Software Engineer</h4>
+<p>
+  <strong>Susquehanna International Group</strong><br/>
+  <sub>March 2026 – Present</sub><br/>
+  <sub>Developing infrastructure and backend systems for high-scale trading technology.</sub>
+</p>
+
+<hr/>
+
+<h4>Software Engineer</h4>
+<p>
+  <strong>Susquehanna International Group</strong><br/>
+  <sub>March 2025 – March 2026</sub><br/>
+  <sub>
+    Piloted a global MySQL Grafana observability dashboard enabling engineers worldwide
+    to monitor 200+ database instances, and built a MySQL to SQLite archival pipeline
+    actively compressing and preserving 20+ TB of historical schemas.
+  </sub>
+</p>
+<hr/>
+<h4>Software Engineer</h4>
+<p>
+  <strong>Leidos</strong><br/>
+  <sub>March 2024 – September 2024</sub><br/>
+  <sub>
+    Created automation software using Selenium and C# for internal tooling at a Fortune 250 company.
+  </sub>
+</p>
+
+<hr/>
+
+<h4>Data Operations Associate</h4>
+<p>
+  <strong>DemandScience</strong><br/>
+  <sub>June 2023 – September 2023</sub><br/>
+  <sub>
+    Automated internal business workflows for a B2B marketing platform used by Google,
+    Microsoft, AWS, and more.
+  </sub>
+</p>
 
 <!-- TECH SKILLS -->
-<h2 align="left">Tech Skills</h2>
-
-<h3 align="left">Languages</h3>
+<h2 align="left">Tech Stack</h2>
+<h3>Languages</h3>
 <p>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=python,go,java,bash,js,ts,cs,c,html,css" />
 </p>
 
-
-<h3 align="left">Frameworks</h3>
+<h3>Frameworks</h3>
 <p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask,spring,dotnet" />
+</p>
+<p>
+  <sub>ASP.NET • EF Core</sub>
 </p>
 
-
-<h3 align="left">DevOps & Infrastructure</h3>
+<h3>DevOps & Infrastructure</h3>
 <p>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" alt="grafana" width="40" height="40"/>
-</a>
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/prometheus.svg" alt="prometheus" width="40" height="40"/>
-</a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/ansible.svg" alt="ansible" width="40" height="40"/>
-</a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,kafka,ansible,grafana,prometheus,aws,docker,redis" />
+</p>
+<p>
+  <sub>Grafana Loki</sub>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3>Databases</h3>
 <p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/5713248?s=200&v=4" alt="influxdb" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracledb" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+<p>
+  <sub>InfluxDB • ClickHouse • YugabyteDB</sub>
 </p>
 
-<!-- GITHUB STATS -->
+<!-- GitHub Stats -->
 <h2 align="left">GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=justingarvida&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="justingarvida GitHub Stats" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=justingarvida&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" 
+    alt="Justin Garvida GitHub Stats"
+  />
 </p>
 
 <!-- CONNECT -->
@@ -119,7 +125,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
-
-<!-- PORTFOLIO -->
-<h2 align="left">Check My Portfolio Website!</h2>
-<p>(https://justingarvida.github.io/portfolio/)</p>
